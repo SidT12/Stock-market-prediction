@@ -1,1 +1,2 @@
-# Stock market prediction using numerical and textual analysis
+# The Sparks Foundation Tasks
+## GRIPNov20
